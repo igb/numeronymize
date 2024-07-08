@@ -8,7 +8,7 @@ Numeronymize is an Elisp extension for the [Emacs](https://www.gnu.org/software/
 - a11y --- accessibility
 - c14n --- canonicalization
 - o11y --- observability
-- e14n --- Andreesen Horowitz
+- a16z --- Andreesen Horowitz
 
 More details can be found [here](https://en.wikipedia.org/wiki/Numeronym#Numerical_contractions).   
 
