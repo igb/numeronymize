@@ -1,5 +1,5 @@
 # numeronymize
-Numeronymize is an Elisp extension for the [Emacs](https://www.gnu.org/software/emacs/) text editor that enables a user to transform words into numerical contraction numeronyms. This form of abbreviation takes the characters between the first and last characters in a word or phrase and replaces them with the number of characters between the first and last charcaters of the word or phrase. For example, the word "Kubernetes" would be abbreviated as "K8s" because ther are 8 characters ("ubernete") between the starting "K" and the ending "s".   
+Numeronymize is an Elisp extension for the [Emacs](https://www.gnu.org/software/emacs/) text editor that enables a user to transform words into numerical contraction numeronyms. This form of abbreviation takes the characters between the first and last characters in a word or phrase and replaces them with the number of characters between the first and last characters of the word or phrase. For example, the word "Kubernetes" would be abbreviated as "K8s" because there are 8 characters ("ubernete") between the starting "K" and the ending "s".   
 
 
 #### Some examples of (numerical contraction) numeronyms:
